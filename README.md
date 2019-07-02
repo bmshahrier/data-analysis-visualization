@@ -3,7 +3,9 @@
 This portfolio is a compilation of data science projects and notebooks which I have created for data wrangling, data analysis & visualization and exploration of machine learning algorithms.
 
 ## Data Wrangling
+- BIXI Montreal Data Wrangling: 
 ## Data Analysis and Visualization
+- BIXI Montreal Exploratory Data Analysis: 
 ## Machine Learning
 ### Regression *(Predict a numerical outcome)*
 ### Classification *(Classifying data into a given number of class labels given some characteristics)*
