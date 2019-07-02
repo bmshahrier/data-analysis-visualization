@@ -3,7 +3,7 @@
 This portfolio is a compilation of data science projects and notebooks which I have created for data wrangling, data analysis & visualization and exploration of machine learning algorithms.
 
 ## Data Wrangling
-- BIXI Montreal Data Wrangling: 
+- [BIXI Montreal Data Wrangling](https://github.com/bmshahrier/bixi-montreal/blob/master/bixi_montreal_data_wrangling.ipynb): In order to perform EDA (Exploratory Data Analysis) and prepare Machine Learning Models to solve different business problems, a Dataset had been created combining BIXI Open Dataset from year 2014 to 2018 and Montreal historical hourly weather dataset from year 2014 to 2018. 
 ## Data Analysis and Visualization
 - BIXI Montreal Exploratory Data Analysis: 
 ## Machine Learning
