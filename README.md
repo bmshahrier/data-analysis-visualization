@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/bmshahrier/data-science-portfolio.svg)](http://hits.dwyl.io/bmshahrier/data-science-portfolio)
+
 # Data Science Portfolio
 
 This portfolio is a compilation of data science projects and notebooks which I have created for data wrangling, data analysis & visualization and exploration of machine learning algorithms.
