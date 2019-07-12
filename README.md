@@ -13,4 +13,3 @@ This portfolio is a compilation of data science projects and notebooks which I h
 ### Time Series Analysis *(Predict a numerical outcome in the future considering the historical data)*
 ### Recommendation System *(Predict user response to an item)*
 
-## Kaggle Competition
