@@ -9,6 +9,8 @@ This portfolio is a compilation of data science projects and notebooks which I h
 ## Data Analysis and Visualization
 - [BIXI Montreal Exploratory Data Analysis](https://github.com/bmshahrier/bixi-montreal/blob/master/bixi_montreal_exploratory_data_analysis.ipynb):
 
+In the line diagram we can see that BIXI bike sharing systems is becoming popular means of travel in Montreal last five years.
+
 ![alt text](https://github.com/bmshahrier/bixi-montreal/blob/master/images/bixi-month-week-hour.png "BIXI Monthly Weekly Hourly Trips ny Year")
 ## Machine Learning
 ### Regression *(Predict a numerical outcome)*
