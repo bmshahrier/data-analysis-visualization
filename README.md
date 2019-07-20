@@ -7,7 +7,7 @@ This portfolio is a compilation of data science projects and notebooks which I h
 ## Data Wrangling
 - [BIXI Montreal Data Wrangling](https://github.com/bmshahrier/bixi-montreal/blob/master/bixi_montreal_data_wrangling.ipynb): 
 
-In order to perform EDA (Exploratory Data Analysis) and to prepare Machine Learning Models to solve different business problems of BIXI Montreal, a Dataset was created combining BIXI Open Dataset from year 2014 to 2018 and Montreal historical hourly weather dataset from year 2014 to 2018. *In this exercise 105 files, 35 features and 993MB data were merged together and processed a dataset with 20 features and 1008MB of size*. I used Google colab, python and pandas for this data wrangling. 
+I am working with BIXI data to develop some models (e.g. hourly bike demand forecast for each station) for optimizing BIXI system. In order to perform EDA (Exploratory Data Analysis) and to prepare Machine Learning Models to solve different business problems of BIXI Montreal, a Dataset was created combining BIXI Open Dataset from year 2014 to 2018 and Montreal historical hourly weather dataset from year 2014 to 2018. *In this exercise 105 files, 35 features and 993MB data were merged together and processed a dataset with 20 features and 1008MB of size*. I used Google colab, python and pandas for this data wrangling. 
 
 ## Data Analysis and Visualization
 - [BIXI Montreal Exploratory Data Analysis](https://github.com/bmshahrier/bixi-montreal/blob/master/bixi_montreal_exploratory_data_analysis.ipynb):
