@@ -15,6 +15,20 @@ I am working with BIXI data to develop some models (e.g. hourly bike demand fore
 In the line diagram we see that BIXI bike sharing systems is becoming popular means of travel in Montreal for last five years. We also see that June to August are the most popular months, Tuesday to Thursday are most popular weekdays and 8:00 am and 5:00 pm are the pick hours for BIXI bikers.
 
 ![alt text](https://github.com/bmshahrier/bixi-montreal/blob/master/images/bixi-month-week-hour.png "BIXI Monthly Weekly Hourly Trips ny Year")
+
+- [Sales Data Analysis](https://github.com/bmshahrier/sales-data-analysis):
+
+The company sells bicycles and accessories, such as clothing and other accessories to bikers in six countries. I have analysed 6 years data (more than one hundred thousand rows) in Excel using excel table, pivot table, pivot charts, slicer etc.
+
+Sales Dashboard:
+
+![alt text]( https://github.com/bmshahrier/sales-data-analysis/blob/master/images/Dashboard.png "Sales Dashboard")
+
+Sales Growth Report:
+
+![alt text]( https://github.com/bmshahrier/sales-data-analysis/blob/master/images/Growth.png "Sales Growth Report")
+
+
 ## Machine Learning
 ### Regression *(Predict a numerical outcome)*
 ### Classification *(Classifying data into a given number of class labels given some characteristics)*
