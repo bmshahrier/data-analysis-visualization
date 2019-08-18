@@ -24,11 +24,6 @@ Sales Dashboard:
 
 ![alt text]( https://github.com/bmshahrier/sales-data-analysis/blob/master/images/Dashboard.png "Sales Dashboard")
 
-Sales Growth Report:
-
-![alt text]( https://github.com/bmshahrier/sales-data-analysis/blob/master/images/Growth.png "Sales Growth Report")
-
-
 ## Machine Learning
 ### Regression *(Predict a numerical outcome)*
 ### Classification *(Classifying data into a given number of class labels given some characteristics)*
